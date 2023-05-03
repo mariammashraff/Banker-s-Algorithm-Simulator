@@ -9,3 +9,5 @@ The program also allows the user to select a specific process and specify the nu
 After inputting the necessary parameters, the user can click on the "calculate" button, and the program will determine whether the requested resource can be granted safely based on the information provided.
 
 Upon clicking on the "calculate" button, the program will begin to determine whether the requested resources can be granted safely based on the information provided. The program will then display the allocation decision step by step, indicating whether each request can be granted or not.
+
+## Mariam Ashraf Ahmed 
