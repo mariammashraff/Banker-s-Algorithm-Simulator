@@ -64,11 +64,6 @@ namespace WindowsFormsApp2
             this.NoProcess.Name = "NoProcess";
             this.NoProcess.Size = new System.Drawing.Size(57, 20);
             this.NoProcess.TabIndex = 13;
-            this.NoProcess.Value = new decimal(new int[] {
-            5,
-            0,
-            0,
-            0});
             // 
             // NoResource
             // 
@@ -76,11 +71,6 @@ namespace WindowsFormsApp2
             this.NoResource.Name = "NoResource";
             this.NoResource.Size = new System.Drawing.Size(57, 20);
             this.NoResource.TabIndex = 17;
-            this.NoResource.Value = new decimal(new int[] {
-            4,
-            0,
-            0,
-            0});
             // 
             // button1
             // 

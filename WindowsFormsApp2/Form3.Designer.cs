@@ -51,7 +51,7 @@ namespace WindowsFormsApp2
             this.DGV_rem.AllowUserToResizeRows = false;
             this.DGV_rem.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
             this.DGV_rem.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DGV_rem.Location = new System.Drawing.Point(107, 132);
+            this.DGV_rem.Location = new System.Drawing.Point(107, 139);
             this.DGV_rem.Name = "DGV_rem";
             this.DGV_rem.RowHeadersVisible = false;
             this.DGV_rem.RowHeadersWidth = 51;
@@ -72,8 +72,8 @@ namespace WindowsFormsApp2
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(491, 330);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.Location = new System.Drawing.Point(523, 355);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(64, 26);
             this.button1.TabIndex = 35;
@@ -99,8 +99,8 @@ namespace WindowsFormsApp2
             this.DGV_visiblity.AllowUserToResizeRows = false;
             this.DGV_visiblity.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
             this.DGV_visiblity.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DGV_visiblity.Location = new System.Drawing.Point(487, 132);
-            this.DGV_visiblity.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.DGV_visiblity.Location = new System.Drawing.Point(491, 139);
+            this.DGV_visiblity.Margin = new System.Windows.Forms.Padding(2);
             this.DGV_visiblity.Name = "DGV_visiblity";
             this.DGV_visiblity.RowHeadersVisible = false;
             this.DGV_visiblity.RowHeadersWidth = 51;
@@ -145,8 +145,8 @@ namespace WindowsFormsApp2
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(491, 292);
-            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button2.Location = new System.Drawing.Point(523, 317);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(64, 26);
             this.button2.TabIndex = 44;
@@ -158,7 +158,7 @@ namespace WindowsFormsApp2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(607, 371);
+            this.ClientSize = new System.Drawing.Size(632, 392);
             this.ControlBox = false;
             this.Controls.Add(this.button2);
             this.Controls.Add(this.safeSeq_label);
@@ -169,7 +169,7 @@ namespace WindowsFormsApp2
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.DGV_rem);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form3";
             this.Text = "The Answer";
             ((System.ComponentModel.ISupportInitialize)(this.DGV_rem)).EndInit();
