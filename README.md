@@ -1,7 +1,7 @@
 # Banker's Algorithm Simulator
 the Banker's algorithm simulator using C# provides the user with the flexibility to customize and simulate various scenarios, enabling them to gain a better understanding of the Banker's algorithm and its application in resource allocation and deadlock prevention.
 
-# Usage 
+## Usage
 To start using the Banker's algorithm simulator using C#, the user needs to input four parameters: maximum required resources, currently allocated resources, total resources available, and currently available resources.
 
 The program also allows the user to select a specific process and specify the number and type of resources required for that process, enabling the simulation of different scenarios and providing flexibility. Additionally, the user can specify the number of processes and the number of resources required for each process.
