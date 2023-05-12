@@ -10,7 +10,7 @@ After inputting the necessary parameters, the user can click on the "calculate" 
 
 Upon clicking on the "calculate" button, the program will begin to determine whether the requested resources can be granted safely based on the information provided. The program will then display the allocation decision step by step, indicating whether each request can be granted or not.
 
-##Screen Shots
+## Screenshots
 
 ![1](https://github.com/mariammashraff/Banker-s-Algorithm-Simulator/assets/58777989/417ff13c-cb75-401c-b31a-d0425322a256)
 ![2](https://github.com/mariammashraff/Banker-s-Algorithm-Simulator/assets/58777989/493b0bba-8f02-4db0-9ae6-2b89af150080)
